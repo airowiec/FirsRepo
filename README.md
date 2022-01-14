@@ -1,2 +1,1 @@
-# FirsRepo
-tests
+paragon z warzywniaka
